@@ -8,6 +8,7 @@
 1.设置监听函数
 
 参考网址,仿照方法:
+https://cn.redux.js.org/docs/react-redux/api.html
 
 ![0804](http://ww1.sinaimg.cn/large/006pJUwqgy1fwq3f43xqpj30r605baa6.jpg)
 
